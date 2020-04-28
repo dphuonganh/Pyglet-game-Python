@@ -1,1 +1,3 @@
-# Pyglet-game-Python
+# Pyglet game Python
+
+**Install:** install pyglet

@@ -1,3 +1,3 @@
 # Pyglet game Python
 
-**Install:** install pyglet
+**Install:** pip install pyglet
